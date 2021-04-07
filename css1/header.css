@@ -1,0 +1,41 @@
+.nombre{
+    height: auto;
+    width:100%;
+    margin: 0px;
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+    
+}
+
+.titulo_nombre{
+    margin: 0%;
+    width: 100%;
+    text-align: left;
+    color:white;
+    text-decoration: none;
+}
+
+.main_nav{
+    height: auto;
+    width:100%;
+    margin:0;
+    width: 100%;
+    text-align: right;
+}
+
+.li_nav{
+    margin: 0px;
+    text-decoration: none;
+    padding: 30px 30px;
+    display: inline-block;
+   
+}
+
+.li_nav:hover{
+    background-color: bisque;
+}
