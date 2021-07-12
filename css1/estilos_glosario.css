@@ -167,6 +167,12 @@ b{
         padding: 0px;
         font-family:'Viaoda Libre', cursive, ;   
     }
+    h1{
+        font-size: 30px;
+        text-align: center;
+        color: black;
+        text-decoration: underline rgb(223, 0, 0) solid 4px;
+    }
 }
 @media (min-width: 1000px){
     .containerImg{
