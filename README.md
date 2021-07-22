@@ -1,14 +1,12 @@
 
-<div class="bigContainer">
-
-    <span class="separator"></span>
-    <img class="image" src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854__340.png">
-    <h1 class="heading">Portafolio III</h1>
-    <span class="separator"></span>
+<div>
+    <img src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854__340.png">
+    <h1>Portafolio III</h1>
+    <span></span>
     
-    <div class="smallContainer1">
-        <h1 class="datosGeneralesTitle">Datos generales</h1>
-        <p class="textDatosGenerales">
+    <div>
+        <h1>Datos generales</h1>
+        <p>
             Colegio Santa Catalina Labouré
             <br>
             Ricardo Andrés Morales Castillo
@@ -18,25 +16,24 @@
             4to Bachillerato en computación
         </p>
     </div>
-    <span class="separator"></span>
+    <span></span>
     
-    <div class="smallContainer2">
-        <h1 class="title">Índice</h1>
-        <span class="underline"></span>
-        <ol class="indice">
-            <li class="bigText">Portada</li>
-            <li class="bigText">Anteportada</li>
-            <li class="bigText">Índice</li>
-            <li class="bigText">Objetivos</li>
-            <li class="bigText">Documentación</li>
+    <div>
+        <h1>Índice</h1>
+        <ol>
+            <li>Portada</li>
+            <li>Anteportada</li>
+            <li>Índice</li>
+            <li>Objetivos</li>
+            <li>Documentación</li>
         </ol>
     </div>
-    <span class="separator"></span>
+    <span></span>
 
-    <div class="smallContainer2">
-        <h1 class="title">Objetivos</h1>
-        <span class="underline"></span>
-        <p class="bigText">
+    <div>
+        <h1>Objetivos</h1>
+        <span></span>
+        <p>
             -En esta unidad tenía como meta personal aprender python
             y entender completamente html y css
             <br>
@@ -45,12 +42,11 @@
             -Y quería aprender el uso de Flexbox
         </p>
     </div>
-    <span class="separator"></span>
+    <span></span>
 
-    <div class="smallContainer2">
-        <h1 class="title">Documentación</h1>
-        <span class="underline"></span>
-        <p class="bigText">
+    <div>
+        <h1>Documentación</h1>
+        <p>
             Este es mi portafolio contiene mucha información sobre html y css puede ayudarme personalmente
             y también a otras personas como un pequeño diccionario este también tiene soporte para celular
             link del proyecto 
