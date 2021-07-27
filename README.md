@@ -24,7 +24,7 @@ Curso: Laboratorio 1
 <h1 class="title">Índice</h1>
 <span class="underline"></span>
 <ol class="indice">
-<li class="bigText">Portada</li>
+<li class="bigText"><a href="">Portada</a></li>
 <li class="bigText">Anteportada</li>
 <li class="bigText">Índice</li>
 <li class="bigText">Objetivos</li>
