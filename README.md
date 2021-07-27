@@ -24,11 +24,10 @@ Curso: Laboratorio 1
 <h1 class="title">Índice</h1>
 <span class="underline"></span>
 <ol class="indice">
-<li class="bigText"><a href="">Portada</a></li>
-<li class="bigText">Anteportada</li>
+<li class="bigText"><a href="https://ricardo-we.github.io/Glosario-de-etiquetas/">Portada</a></li>
 <li class="bigText">Índice</li>
 <li class="bigText">Objetivos</li>
-<li class="bigText">Documentación</li>
+  <li class="bigText"><a href="https://ricardo-we.github.io/Glosario-de-etiquetas/glosario.html">Glosario</a></li>
 </ol>
 </div>
 <span class="separator"></span>
