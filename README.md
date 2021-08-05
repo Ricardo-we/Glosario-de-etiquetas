@@ -57,5 +57,10 @@ link del proyecto
   Glosario de etiquetas
 </a>
 </p>
+
+<h1>Objetivos futuros y librerias</h1>
+Mis objetivos futuros es terminar de aprender javascript y python como objetivos personales
+y librerias que me gustaría aprender son: React Native y terminar de aprender Django
+  
 </div>
 </div>
